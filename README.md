@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Data Analysis Project
 
 ## Overview
@@ -48,3 +49,7 @@ sales-data-analysis/
 
 ### Top 10 Products
 ![Top 10 Products](images/top_10_products.png)
+=======
+# sales-data-analysis
+Sales Data Analysis using Python, Pandas, and Matplotlib to analyze sales performance, identify regional trends, and generate business insights.
+>>>>>>> c0aee27714c4a2b476d2253a17bf2d9ef4fc744c
