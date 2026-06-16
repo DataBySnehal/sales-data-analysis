@@ -1,73 +1,50 @@
-# Sales Data Analysis
+# Sales Data Analysis Project
 
-## Project Overview
+## Overview
+This project analyzes sales data using Python and Pandas.
 
-This project analyzes retail sales data using Python, Pandas, and Matplotlib.
-
-The goal is to identify sales trends, profitable categories, and top-performing products.
-
----
-
-## Tools Used
-
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
-- VS Code
-- GitHub
+- Git
 
----
+## Analysis Performed
+- Total Sales Analysis
+- Total Profit Analysis
+- Sales by Category
+- Profit by Category
+- Sales by Year
+- Top 10 Products Analysis
 
-## Dataset
+## Project Structure
 
-Retail Sales Dataset (sales.csv)
+sales-data-analysis/
+│
+├── data/
+│   └── sales.csv
+│
+├── images/
+│   ├── sales_by_category.png
+│   ├── profit_by_category.png
+│   ├── sales_by_year.png
+│   └── top_10_products.png
+│
+├── notebooks/
+│   └── sales_analysis.py
+│
+└── README.md
 
----
-
-## Key Findings
-
-### Total Sales
-
-7,835,128
-
-### Total Profit
-
-1,469,034.82
-
-### Sales by Category
-
-- Office Supplies generated the highest sales.
-- Technology generated the second-highest sales.
-- Furniture generated the lowest sales.
-
-### Profit by Category
-
-- Technology generated the highest profit.
-- Office Supplies generated the second-highest profit.
-- Furniture generated the lowest profit.
-
----
-
-## Visualizations
+## Results
 
 ### Sales by Category
-
 ![Sales by Category](images/sales_by_category.png)
 
 ### Profit by Category
-
 ![Profit by Category](images/profit_by_category.png)
 
 ### Sales by Year
-
 ![Sales by Year](images/sales_by_year.png)
 
 ### Top 10 Products
-
-![Top Products](images/top_10_products.png)
-
----
-
-## Author
-
-Snehals
+![Top 10 Products](images/top_10_products.png)
